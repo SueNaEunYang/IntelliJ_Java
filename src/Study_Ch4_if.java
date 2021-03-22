@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.util.Scanner;
 
-public class Study_Ch4 {
+public class Study_Ch4_if {
     public static void main(String[] args) {
         //Ex4_00 instance00 = new Ex4_00();
         Ex4_01 instance401 = new Ex4_01();
